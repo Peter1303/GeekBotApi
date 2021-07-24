@@ -4,7 +4,6 @@ package top.pdev.bot.plugin.data.friend;
  * 好友信息
  *
  * @author Peter1303
- * @date Created in 2021/7/22 14:02
  */
 public class FriendData {
     private long qq;

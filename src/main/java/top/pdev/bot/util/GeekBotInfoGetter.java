@@ -9,7 +9,6 @@ import java.util.List;
  * GeekBot 信息获取
  *
  * @author Peter1303
- * @date Created in 2021/7/19 21:29
  */
 public class GeekBotInfoGetter {
     /**

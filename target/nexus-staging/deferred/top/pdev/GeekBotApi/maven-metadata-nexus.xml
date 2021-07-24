@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>top.pdev</groupId>
+  <artifactId>GeekBotApi</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.10-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210724103447</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,3 @@
+top/pdev/GeekBotApi/1.0.10-SNAPSHOT/GeekBotApi-1.0.10-SNAPSHOT.jar=top.pdev:GeekBotApi:1.0.10-SNAPSHOT:n/a:jar:jar:GeekBotApi-1.0.10-SNAPSHOT.pom:n/a:ossrh:https://s01.oss.sonatype.org/content/repositories/snapshots
+top/pdev/GeekBotApi/1.0.10-SNAPSHOT/GeekBotApi-1.0.10-SNAPSHOT-sources.jar=top.pdev:GeekBotApi:1.0.10-SNAPSHOT:sources:java-source:jar:n/a:n/a:ossrh:https://s01.oss.sonatype.org/content/repositories/snapshots
+top/pdev/GeekBotApi/1.0.10-SNAPSHOT/GeekBotApi-1.0.10-SNAPSHOT-javadoc.jar=top.pdev:GeekBotApi:1.0.10-SNAPSHOT:javadoc:javadoc:jar:n/a:n/a:ossrh:https://s01.oss.sonatype.org/content/repositories/snapshots

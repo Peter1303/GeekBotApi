@@ -4,7 +4,6 @@ package top.pdev.bot.util.network;
  * 网址处理
  *
  * @author Peter1303
- * @date Created in 2021/7/16 21:14
  */
 public class UrlUtils {
     /**
