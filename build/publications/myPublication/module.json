@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "top.pdev.bot.plugin",
+    "module": "GeekBotApi",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "ihfcsttzejf4bmrhibhicpozyu"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "GeekBotApi-1.0.0.jar",
+          "url": "GeekBotApi-1.0.0.jar",
+          "size": 10781,
+          "sha512": "260b672e33b6a79d0c0a80b064f078c1954e39ffe6f3ceef1122860e3b67176b5f4f016941287d35e206bc5cff8e10bdbe6663be165f8aa73590ec8e7418f3de",
+          "sha256": "ebcae8cbdabc6b49fdac12f38675b719cc50b341df3a7f37b866a1e4fb228e16",
+          "sha1": "fa12a74a432dc8a8f14c029c7f18c3ff377d0193",
+          "md5": "9f589989a8393507ae56bcfdab657010"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "GeekBotApi-1.0.0.jar",
+          "url": "GeekBotApi-1.0.0.jar",
+          "size": 10781,
+          "sha512": "260b672e33b6a79d0c0a80b064f078c1954e39ffe6f3ceef1122860e3b67176b5f4f016941287d35e206bc5cff8e10bdbe6663be165f8aa73590ec8e7418f3de",
+          "sha256": "ebcae8cbdabc6b49fdac12f38675b719cc50b341df3a7f37b866a1e4fb228e16",
+          "sha1": "fa12a74a432dc8a8f14c029c7f18c3ff377d0193",
+          "md5": "9f589989a8393507ae56bcfdab657010"
+        }
+      ]
+    }
+  ]
+}
