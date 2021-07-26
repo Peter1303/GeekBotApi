@@ -9,7 +9,6 @@ public class PluginInfo {
     private String version;
     private int versionCode;
     private String pluginName;
-    private String summary;
     private String author;
 
     public PluginInfo() {
@@ -85,15 +84,5 @@ public class PluginInfo {
      */
     public void setAuthor(String author) {
         this.author = author;
-    }
-
-    /**
-     * 设置插件描述信息
-     *
-     * @param summary 插件描述
-     *                非必要
-     */
-    public void setSummary(String summary) {
-        this.summary = summary;
     }
 }

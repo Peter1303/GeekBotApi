@@ -6,6 +6,14 @@
     <list size="0" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/docs" />
+    <option name="OTHER_OPTIONS" value="     -encoding UTF-8 -charset UTF-8 -windowtitle &quot;GeekBotApi&quot; -link http://docs.Oracle.com/javase/7/docs/api  " />
+    <option name="LOCALE" value="zh_CN" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>

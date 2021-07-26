@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"top.pdev.bot.data"},{"l":"top.pdev.bot.plugin"},{"l":"top.pdev.bot.plugin.data"},{"l":"top.pdev.bot.plugin.data.friend"},{"l":"top.pdev.bot.plugin.data.group"},{"l":"top.pdev.bot.plugin.log"},{"l":"top.pdev.bot.plugin.utils"},{"l":"top.pdev.bot.util"},{"l":"top.pdev.bot.util.network"},{"l":"所有程序包","url":"allpackages-index.html"}]

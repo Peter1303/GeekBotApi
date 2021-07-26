@@ -16,6 +16,7 @@ public class HttpRequest {
 
     private String userAgent = "";
     private HashMap<String, String> headers = null;
+    private HashMap<String, String> getParams = null;
 
     private String url;
     private HashMap<String, String> params = new HashMap<>();
@@ -38,6 +39,15 @@ public class HttpRequest {
      */
     public void setHeaders(HashMap<String, String> headers) {
         this.headers = headers;
+    }
+
+    /**
+     * 设置 GET 参数
+     * <p>GET / POST 均使用</p>
+     * @param getParams
+     */
+    public void setGetParams(HashMap<String, String> getParams) {
+        this.getParams = getParams;
     }
 
     /**

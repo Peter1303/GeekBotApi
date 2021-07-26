@@ -24,6 +24,7 @@ public class MessageData {
     private String error;
     private boolean recall;
     private boolean botAdmin;
+    private boolean admin;
     private int mute;
     private long muteTarget;
     private long personTarget;
@@ -148,6 +149,14 @@ public class MessageData {
      */
     public boolean isBotAdmin() {
         return botAdmin;
+    }
+
+    /**
+     * 发送方是否为设置的 admin
+     * @return 是否
+     */
+    public boolean isAdmin() {
+        return admin;
     }
 
     /**
