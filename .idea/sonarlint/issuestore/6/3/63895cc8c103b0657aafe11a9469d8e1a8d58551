@@ -1,0 +1,33 @@
+
+j
+java:S1450"TRemove the "error" field and declare it as a local variable in the relevant methods.(²¸¶‡
+r
+java:S1450"\Remove the "friendMessage" field and declare it as a local variable in the relevant methods.(ĞË£Ï
+j
+java:S1450"TRemove the "image" field and declare it as a local variable in the relevant methods.(šòë
+t
+java:S1450"YRemove the "muteTarget" field and declare it as a local variable in the relevant methods.(ìÈš­øÿÿÿÿ
+v
+java:S1450"[Remove the "personTarget" field and declare it as a local variable in the relevant methods.(Ì¢€üÿÿÿÿ
+k
+java:S1450"URemove the "recall" field and declare it as a local variable in the relevant methods.(ŠÚœƒ
+j
+java:S1450"TRemove the "reply" field and declare it as a local variable in the relevant methods.(ä¯©
+E
+java:S1068"/Remove this unused "personReply" private field.(ö¶‰·
+?
+java:S1068")Remove this unused "reply" private field.(ä¯©
+G
+java:S1068"1Remove this unused "friendMessage" private field.(ĞË£Ï
+?
+java:S1068")Remove this unused "image" private field.(šòë
+?
+java:S1068")Remove this unused "error" private field.(²¸¶‡
+@
+java:S1068"*Remove this unused "recall" private field.(ŠÚœƒ
+C
+java:S1068"(Remove this unused "mute" private field.(Ëñ‡«ÿÿÿÿÿ
+I
+java:S1068".Remove this unused "muteTarget" private field.(ìÈš­øÿÿÿÿ
+K
+java:S1068"0Remove this unused "personTarget" private field.(Ì¢€üÿÿÿÿ
