@@ -8,7 +8,6 @@ import top.pdev.bot.plugin.data.PluginInfo;
  * GeekBot 加载插件后初始化插件
  *
  * @author Peter1303
- * @version 12
  */
 public abstract class GeekBotCallBack {
     public static final String LINE = "————————————";

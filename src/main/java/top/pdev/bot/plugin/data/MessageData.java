@@ -41,6 +41,16 @@ public class MessageData {
     }
 
     /**
+     * 设置消息类型
+     * 若设置了，那么返回消息对象是将会最高级别
+     * 一般用于定时任务
+     * @param messageType
+     */
+    public void setMessageType(MessageType messageType) {
+        this.messageType = messageType;
+    }
+
+    /**
      * @return 消息群
      */
     public long getGroup() {
